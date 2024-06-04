@@ -6,12 +6,13 @@
     <title>Document</title>
 
 <head>
-<body style>
+</body>
+
     <h1> ให้นักเรียนเข้าม HTML ให้แสดงลักษณะตามรูปแแบ<h1>
 
     <p>text<p>
 
-    <p>bold text<p>
+    <b>bold text</b>
 
     <p>important text<p>
 
