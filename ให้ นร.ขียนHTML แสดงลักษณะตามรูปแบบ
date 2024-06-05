@@ -12,8 +12,8 @@
     <p><strong>Important text</strong></p>
     <p><i>Italic text</i></p>
     <p><em>Emphasized text</em></p>
-    <p>HTML <mark>Marked</mark> Formatting</p>
-    <p>HTML <small>Small</small> Formatting</p>
+    <p><strong>HTML <mark>Marked</mark> Formatting</strong></p>
+    <p>HTML <strong><small>Small</small> Formatting</strong></p>
     <p>My favorite color is <span style="text-decoration: line-through;">blue</span> <span style="text-decoration: underline;">red!</span></p>
     <p>This is <sub>subscript</sub> and <sup>superscript</sup></p>
 </body>
