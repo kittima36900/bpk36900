@@ -5,18 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body style="max-width: 600px;">
-    <h1><b>ให้นักเรียนเขียน HTML ให้แสดงลักษณะตามรูปแบบ</b></h1>
+<body>
+    <h1>ให้นักเรียนเขียน HTML ให้แสดงลักษณะตามรูปแบบ</h1>
     <p>text</p>
-    <h4><b>Bold text</b></h4>
-    <h4><b>Important text</b></h4>
-    <p style="font-style: italic">Italic text</p>
+    <p><b>Bold text</b></p>
+    <p><strong>Important text</strong></p>
+    <p><i>Italic text</i></p>
     <p><em>Emphasized text</em></p>
-    <h2>HTML <mark>Marked</mark> Formatting</h2>
-    <h2>HTML <small>Small</small> Formatting</h2>
-    <span>My favorite color is <span style="text-decoration-line:line-through">blue</span>
-    <span style="text-decoration-line:underline;">red!</span></span>
-    <p><span>This is <span><sub>subcript </sub></span><span>and </span><span><sup>superscript</sup></span></span></p>
+    <p>HTML <mark>Marked</mark> Formatting</p>
+    <p>HTML <small>Small</small> Formatting</p>
+    <p>My favorite color is <del>blue</del> <ins>red</ins>!</p>
+    <p>This is <sub>subscript</sub> and <sup>superscript</sup></p>
 </body>
 </html>
-
