@@ -3,16 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ส่งงานจารคับ</title>
+    <title>Document</title>
 </head>
 <body>
     <h1>หัวข้อ</h1>
-    <p>text เขียนบลาบลา <br> ยาวๆๆ <hr >  ี้รเ้ำรเ้ีรเ้ีรเ้ำีรเ้ำ่อ่รอรเรนเีร่เ้ีรเรเ่รเ้รเ้รเรนรนีฟนยระรนไีะรน่่้น่ิื่ิรนเร้เร้</p>
+    <p>text เขียนบลาบลา <br> ยาวๆๆ <hr></p>
 
+<div>
+<img src="Single_lavender_flower02.jpg" alt="images">
+</div>
 
-
-
-
+<div>
+    <img src="rose29.jfif" alt="มันคือกุหลาบ"  width="300" height="250">
+</div>
 
 
 
