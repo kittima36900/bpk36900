@@ -10,20 +10,12 @@
     <p>text เขียนบลาบลา <br> ยาวๆๆ <hr></p>
 
 <div>
-<img src="Single_lavender_flower02.jpg" alt="images">
+<img src="Single_lavender_flower02.jpg" alt="images" width="300" heigth="250">
 </div>
 
 <div>
     <img src="rose29.jfif" alt="มันคือกุหลาบ"  width="300" height="250">
 </div>
-
-
-
-
-
-
-
-
 
 
 
