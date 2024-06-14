@@ -5,24 +5,53 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
-    <h1>หัวข้อ</h1>
-    <p>text เขียนบลาบลา <br> ยาวๆๆ <hr></p>
+    <h1>ให้นักเรียนนำรูปภาพจากเว็บไซต์จำนวน5รูป</h1>
+    <h1>มาเขียนโครงสร้างเอกสารตามรูปแบบที่กำหนด รูปไม่ซ้ำกัน</h1>
 
-<div>
-<img src="Single_lavender_flower02.jpg" alt="images" width="300" heigth="250">
-</div>
+    <p>นางสาวกฤติมา เกียรติอาภรณ์ ม.5/9 เลขที่ 29</p>
 
-<div>
-    <img src="rose29.jfif" alt="มันคือกุหลาบ"  width="300" height="250">
-</div>
+    <div>
+
+        <a href="https://www.w3schools.com/html/" target="_blank">
+            <img src="drawing29.jpg" alt="รูปที่ 1" width="300" height="250" >
+         </a>
+        
+        <a href="" target="_blank">
+            <img src="" alt="" width="" height="" >
+
+
+        </a>
+
+
+        <a href="" target="_blank">
+            <img src="" alt="" width="" height="" >
+
+
+        </a>
+
+
+        <a href="" target="_blank">
+            <img src="" alt="" width="" height="" >
+
+
+        </a>
+
+        <a href="" target="_blank">
+            <img src="" alt="" width="" height="" >
+
+
+        </a>
 
 
 
+
+    </div>
+    
 
 
 
 
 
 </body>
-</html>
