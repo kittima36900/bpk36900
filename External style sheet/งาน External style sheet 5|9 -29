@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>external style sheet by kittima</title>
-    
-</head>
     <link rel="stylesheet" href="style.css">
+</head>
+    
 
 
     <h1 style="color: rgb(255, 0, 0);">ประวัติส่วนตัว และข้อมูลนักเรียน</h1>
