@@ -20,7 +20,8 @@
     </ol1>      
 
     ol1{
-    color:pink
+    color:pink;
+    font-wieght:bold;
     }
     
           
@@ -50,29 +51,11 @@
 
 
     
-    
-<body>
-    <table border="3" style="color:hot pink;">
 
-    <tr>
-        <td>คาบที่</td>
-        <td>0</td>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
-        <td>7</td>
-        <td>8</td>
-        <td>9</td>
-    </tr>
-
-</body>
     
 <table border="3">
 
-    <tr background="color:pink;">
+    <tr>
         <td>คาบที่</td>
         <td>0</td>
         <td>1</td>
