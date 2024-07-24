@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>external style sheet by kittima</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+    
 
+
+  <body>
+      
+    <h1>ให้นักเรียนเขียน HTML ให้แสดงลักษณะตามรูปแบบ</h1>
+    <p1>text</p1>
+    <p2><b>Bold text</b></p2>
+    <p3><strong>Important text</strong></p3>
+    <p4><i>Italic text</i></p4>
+    <p5><em>Emphasized text</em></p5>
+    <p6><strong>HTML <mark>Marked</mark> Formatting</strong></p6>
+    <p7><strong>HTML <small>Small</small> Formatting</strong></p7>
+    <p8>My favorite color is <span style="text-decoration: line-through;">blue</span> <span style="text-decoration: underline;">red!</span></p8>
+    <p9>This is <sub>subscript</sub> and <sup>superscript</sup></p9>
+
+
+
+    
+  </body>
