@@ -65,7 +65,7 @@
     <p8>My favorite color is <span style="text-decoration: line-through;">blue</span> <span style="text-decoration: underline;">red!</span></p8>
     <p9>This is <sub>subscript</sub> and <sup>superscript</sup></p9>
 
-
+   </body>
 
     
 <body>
@@ -111,6 +111,7 @@
 
 
     </div>
+</body>
     
 
 <body>
