@@ -5,8 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<link rel="stylesheet" href="style.css"
+
+
 <body>
     <h1>ให้นักเรียนเขียน HTML ให้แสดงลักษณะตามรูปแบบ</h1>
+
+h1{
+   color:blue;
+   font-size:30px;
+   font-wieght:bold;
+}
+
     <p>text</p>
     <p><b>Bold text</b></p>
     <p><strong>Important text</strong></p>
