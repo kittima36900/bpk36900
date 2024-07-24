@@ -155,7 +155,7 @@
 
 <table border="3">
 
-    <tr>
+    <tr style="color:pink;">
         <td>คาบที่</td>
         <td>0</td>
         <td>1</td>
@@ -169,7 +169,7 @@
         <td>9</td>
     </tr>
 
-    <tr>
+    <tr style="color:blue;">
         <td>เวลา</td>
         <td>07:30-08:20</td>
         <td>08:20-09:10</td>
@@ -184,7 +184,7 @@
     </tr>
 
     
-    <tr>
+    <tr style="color=red">
         <td>วันจันทร์</td>
         <td>โฮมรูม</td>
         <td>ภาษาไทย</td>
@@ -198,7 +198,7 @@
         <td></td>
     </tr>
 
-    <tr>
+    <tr style="color:purple;">
         <td>วันอังคาร</td>
         <td>โฮมรูม</td>
         <td>ฟิสิกส์</td>
