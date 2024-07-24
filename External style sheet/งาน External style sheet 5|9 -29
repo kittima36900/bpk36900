@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>external style sheet by kittima</title>
-    <link rel="stylesheet" href="style.css">
-</head>
     
+</head>
+    <link rel="stylesheet" href="style.css">
 
 
   <body>
