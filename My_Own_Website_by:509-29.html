@@ -3,33 +3,127 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ไอเดียการทำวุ้นลายแตงโมสุดสร้างสรรค์ พร้อมคำนวณต้นทุน</title>
-
+    <title>ไอเดียทำวุ้นลายแตงโมสุดสร้างสรรค์</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f7f7f7;
+        }
+        h1 {
+            color: #ff6347;
+        }
+        .content {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .cost-table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        .cost-table th, .cost-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        .cost-table th {
+            background-color: #ff6347;
+            color: white;
+        }
+    </style>
+</head>
 <body>
-    <container color="red">กฤติมา</container>
+    <h1>ไอเดียทำวุ้นลายแตงโมสุดสร้างสรรค์</h1>
+    <div class="content">
+        <h2>คำนวณต้นทุนวัตถุดิบ</h2>
+        <table class="cost-table">
+            <tr>
+                <th>วัตถุดิบ</th>
+                <th>จำนวน</th>
+                <th>ราคา (บาท)</th>
+            </tr>
+            <tr>
+                <td>น้ำหวานสีแดง</td>
+                <td>2 ขวด</td>
+                <td>134</td>
+            </tr>
+            <tr>
+                <td>น้ำหวานสีเขียว</td>
+                <td>1 ขวด</td>
+                <td>69</td>
+            </tr>
+            <tr>
+                <td>น้ำกะทิ</td>
+                <td>1.25 ลิตร</td>
+                <td>100</td>
+            </tr>
+            <tr>
+                <td>เม็ดแมงลัก</td>
+                <td>1 ถุง</td>
+                <td>30</td>
+            </tr>
+            <tr>
+                <td>ผงวุ้น</td>
+                <td>50 กรัม (3 ซอง)</td>
+                <td>131</td>
+            </tr>
+            <tr>
+                <td>น้ำตาลทราย</td>
+                <td>1 กิโลกรัม</td>
+                <td>30</td>
+            </tr>
+            <tr>
+                <td>น้ำเปล่า</td>
+                <td>5 ลิตร</td>
+                <td>35</td>
+            </tr>
+            <tr>
+                <td>ถ้วยพลาสติกขนาด 5 ออนซ์</td>
+                <td>100 ถ้วย</td>
+                <td>70</td>
+            </tr>
+            <tr>
+                <td>ฝาปิดถ้วยพลาสติกขนาด 5 ออนซ์</td>
+                <td>100 ชิ้น</td>
+                <td>40</td>
+            </tr>
+            <tr>
+                <td>ช้อนพลาสติกจิ๋ว</td>
+                <td>100 ชิ้น</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <th>รวมต้นทุน</th>
+                <th></th>
+                <th>659</th>
+            </tr>
+        </table>
 
-<p>
-    สวัสดี
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+        <h2>คำนวณรายได้และกำไร</h2>
+        <p>ขายทั้งหมด 100 ถ้วย ในราคาถ้วยละ 15 บาท</p>
+        <table class="cost-table">
+            <tr>
+                <th>รายการ</th>
+                <th>จำนวน (บาท)</th>
+            </tr>
+            <tr>
+                <td>รายได้ (100 ถ้วย x 15 บาท)</td>
+                <td>1,500</td>
+            </tr>
+            <tr>
+                <td>ต้นทุน</td>
+                <td>659</td>
+            </tr>
+            <tr>
+                <th>กำไร</th>
+                <th>841</th>
+            </tr>
+        </table>
+    </div>
 </body>
+</html>
 
 
 
@@ -39,10 +133,3 @@
 
 
 
-
-
-
-
-
-
-    
