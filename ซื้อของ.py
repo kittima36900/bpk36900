@@ -13,10 +13,12 @@ items = {
     "น้ำตาล": 20,
     "ผงชูรส": 10.25,
     "Pepsi": 29.50,
-    "ชาไทย": 11.50 }
+    "ชาไทย": 11.50 
+}
 
 total_price = sum(items.values())
 budget = 1000
 change = budget - total_price
-print({total_price:.2f} บาท")
-print({change:.2f} บาท")
+
+print(f"ราคารวมของสินค้าที่ซื้อ: {total_price:.2f} บาท")
+print(f"เงินทอนที่เหลือ: {change:.2f} บาท")
